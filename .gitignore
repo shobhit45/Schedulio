@@ -32,7 +32,7 @@
 *.app
 
 .vscode
-CPU-Scheduling-Algorithms.layout
-CPU-Scheduling-Algorithms.depend
+Schedulio.layout
+Schedulio.depend
 input.txt
 main
